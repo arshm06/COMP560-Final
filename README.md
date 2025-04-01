@@ -1,4 +1,5 @@
-Research Question: Optimizing Learning Rate Strategies for Stochastic Gradient Descent (SGD)
+## Research Question
+Optimizing Learning Rate Strategies for Stochastic Gradient Descent (SGD)
 
 ## Methods
 The methods explored for tuning the learning rate include:
