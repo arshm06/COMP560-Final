@@ -20,13 +20,12 @@ This dataset can be used to test basic SGD, Cyclical Learning Rates, and other c
 **Link:** [MNIST Dataset on Kaggle](https://www.kaggle.com/c/digit-recognizer/data)
 
 ---
-
-### 2. CIFAR-10 Dataset
+### 2. California Housing Dataset
 
 **Why Choose This?**  
-The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. The dataset is more complex than MNIST, involving color images with more variability in content.
+The California Housing dataset consists of 20,640 samples of housing data, including 8 features such as median income, housing age, and average rooms. It is more complex than MNIST and is used for regression tasks.
 
 **Types of Experiments**  
-This dataset is particularly useful for seeing how well the aforementioned stratigies can generalize across different image types and prevent overfitting.
+This dataset is particularly useful for testing how well the learning rate strategies can generalize in regression tasks, providing insight into model performance and error reduction.
 
-**Link:** [CIFAR-10 Dataset on Kaggle](https://www.kaggle.com/c/cifar-10/data)
+**Link:** [California Housing Dataset on Kaggle](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
