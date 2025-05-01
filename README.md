@@ -14,6 +14,7 @@ The methods explored for tuning the learning rate include:
 
 **Why Choose This?**  
 MNIST is a classic dataset used in computer vision, comprising 70,000 grayscale images of handwritten digits (0-9). 
+
 **Types of Experiments**  
 This dataset can be used to test basic SGD, Cyclical Learning Rates, and other conditional methods in a controlled setting. The uniformity of data type means that learning dynamics can be clearly observed.
 
